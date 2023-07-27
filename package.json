@@ -1,0 +1,31 @@
+{
+  "name": "chartology-webapp",
+  "version": "1.0.0",
+  "description": "A web app for extracting charts and visualizations and generating insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/756180/chartonomy.git"
+  },
+  "keywords": [
+    "chart",
+    "visualization",
+    "data",
+    "analysis",
+    "insights"
+  ],
+  "author": "Andrew Tiosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/756180/chartonomy/issues"
+  },
+  "homepage": "https://github.com/756180/chartonomy#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {}
+}
